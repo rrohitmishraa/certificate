@@ -12,7 +12,7 @@ const app = express();
 // });
 
 const db = mysql.createConnection({
-  host: "localhost",
+  host: "transform.herosite.pro",
   user: "mvorbnfa_homework",
   password: "akakakak",
   database: "mvorbnfa_homework",
